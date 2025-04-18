@@ -1,0 +1,12 @@
+
+## Project Requirement List
+1. Add complaints with a name and description.
+2. Automatically categorize complaints based on predefined keywords.
+3. Resolve complaints by providing a resolution.
+4. Display all submitted complaints.
+5. Sort complaints by date.
+6. Save complaints to a CSV file.
+7. Validate user inputs for complaint data.
+8. Allow modification of complaint data.
+9. Handle multiple categories like "Internet Issues", "Delivery", "Staff Behavior", and "General".
+10. Provide a day-of-week calculation for complaint dates.
